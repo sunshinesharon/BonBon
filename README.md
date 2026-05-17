@@ -17,7 +17,7 @@ BonBon Jar is where those moments live so you never lose them.
 
 ## How to Set Up Your Own BonBon Jar
 
-### Step 1 — Duplicate the Template
+### Step 1 — Duplicate the Template (https://buff-bonbon.notion.site/candy-store)
 
 Click the Notion template link → hit **Duplicate** → it lands in your workspace with the full Candy Store, AI BonBon Cabinet, and all views intact.
 
